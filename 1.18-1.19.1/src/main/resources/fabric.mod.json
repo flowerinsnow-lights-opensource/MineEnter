@@ -35,7 +35,6 @@
 	"custom": {
 		"modmenu": {
 			"links": {
-				"modmenu.source": "https://github.com/flowerinsnow-lights-opensource/MineEnter",
 				"modmenu.github_releases": "https://github.com/flowerinsnow-lights-opensource/MineEnter/releases"
 			}
 		}
