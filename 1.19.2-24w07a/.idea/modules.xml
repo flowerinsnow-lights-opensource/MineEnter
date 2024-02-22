@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-1.20.2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-1.20.2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-1.20.2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-1.20.2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-1.20.4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-1.20.4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-1.20.4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-1.20.4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-24w07a.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-24w07a.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.19.2-24w07a.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.19.2-24w07a.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.20.2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.20.2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.20.2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.20.2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MineEnter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MineEnter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MineEnter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MineEnter.test.iml" />
+    </modules>
+  </component>
+</project>
